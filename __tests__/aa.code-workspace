@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "E:\\CI44"
+		},
+		{
+			"path": "E:\\c4ejs71"
+		},
+		{
+			"path": "E:\\testMindX\\A.ProblemSolving"
+		},
+		{
+			"path": "E:\\testMindX\\B.CodeChallenge"
+		},
+		{
+			"path": "..\\.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "A.ProblemSolving"
+	}
+}
